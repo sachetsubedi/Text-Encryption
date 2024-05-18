@@ -210,8 +210,6 @@ int main()
     {
         cout << decryptMessage(message, keymatrix) << endl;
     }
-    // cout << encryptMessage(message, keymatrix) << endl;
-    // cout << decryptMessage(encryptMessage(message, keymatrix), keymatrix) << endl;
 
     return 0;
 }
